@@ -12,6 +12,14 @@ bin-release/
 *.air
 *.ipa
 *.apk
+.parcel-cache/*
+dist
+dist/*
+node_modules
+node_modules/*
+.DS_Store
+yarn-error.log
+yarn.lock
 
 # Project files, i.e. `.project`, `.actionScriptProperties` and `.flexProperties`
 # should NOT be excluded as they contain compiler settings and other important
